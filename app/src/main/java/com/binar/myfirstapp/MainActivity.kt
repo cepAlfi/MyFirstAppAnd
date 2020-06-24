@@ -12,4 +12,13 @@ class MainActivity : AppCompatActivity() {
 
         //Komen apa lagi ya?
     }
+
+
+    fun newFunction(){
+        //ini fungsi baru
+    }
+
+    fun secondFunction(){
+        //ini fungsi kedua
+    }
 }
