@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
         //Komen apa lagi ya?
     }
 
-
     fun newFunction(){
         //ini fungsi baru
     }
@@ -21,4 +20,6 @@ class MainActivity : AppCompatActivity() {
     fun secondFunction(){
         //ini fungsi kedua
     }
+
+    //komenan baru lagi buatan andi
 }
