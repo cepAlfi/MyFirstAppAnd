@@ -26,12 +26,11 @@ class MainActivity : AppCompatActivity() {
 
     //komenan baru lagi buatan andi
 
-
-
-
     //Ini aku tambahain lagi komenannya dari andi
 
     //Ini komenan Senno Lagi
 
     //INI KOMENAN yang dibuat SENNO di BRANCH MASTER
+
+    //Andi Nambahin komen ngerapiin code
 }
