@@ -17,4 +17,6 @@ class MainActivity : AppCompatActivity() {
     fun secondFunction(){
         //ini fungsi kedua
     }
+
+    //ini komenan baru buatan SENNO
 }
