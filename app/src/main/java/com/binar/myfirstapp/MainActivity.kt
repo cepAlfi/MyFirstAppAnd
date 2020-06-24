@@ -25,4 +25,6 @@ class MainActivity : AppCompatActivity() {
     //ini komenan baru buatan SENNO
 
     //komenan baru lagi buatan andi
+
+    //Ini komenan Senno Lagi
 }
