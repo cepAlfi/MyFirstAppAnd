@@ -32,4 +32,6 @@ class MainActivity : AppCompatActivity() {
     //Ini aku tambahain lagi komenannya dari andi
 
     //Ini komenan Senno Lagi
+
+    //INI KOMENAN yang dibuat SENNO di BRANCH MASTER
 }
