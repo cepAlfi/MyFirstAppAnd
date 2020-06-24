@@ -22,4 +22,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     //komenan baru lagi buatan andi
+
+
+
+
+    //Ini aku tambahain lagi komenannya dari andi
 }
