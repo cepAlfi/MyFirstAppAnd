@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //Commenan Baru Ini
 
+        //Komen apa lagi ya?
     }
 }
