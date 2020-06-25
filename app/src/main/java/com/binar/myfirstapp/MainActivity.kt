@@ -35,4 +35,5 @@ class MainActivity : AppCompatActivity() {
     //Andi Nambahin komen ngerapiin code
 
     //Disini Ditambahkan fitur terbaru
+    //kode persiapan mau rilis
 }
