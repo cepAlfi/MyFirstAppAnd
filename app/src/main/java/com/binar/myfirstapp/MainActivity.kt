@@ -34,4 +34,6 @@ class MainActivity : AppCompatActivity() {
     //Ini komenan Senno Lagi
 
     //INI KOMENAN yang dibuat SENNO di BRANCH MASTER
+
+    //berisikan perubahan dari hasil fork
 }
