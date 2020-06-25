@@ -33,4 +33,6 @@ class MainActivity : AppCompatActivity() {
     //INI KOMENAN yang dibuat SENNO di BRANCH MASTER
 
     //Andi Nambahin komen ngerapiin code
+
+    //Disini Ditambahkan fitur terbaru
 }
